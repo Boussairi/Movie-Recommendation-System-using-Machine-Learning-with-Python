@@ -30,7 +30,7 @@ The recommendation system is based on collaborative filtering technique. It find
 The data used for this recommendation system is a subset of the MovieLens dataset. The dataset contains over 100,000 ratings of approximately 8,000 movies from 600 users. The data is preprocessed and cleaned before being used in the model.
 
 ## Credits
-This project is inspired by the tutorial from Data Professor on YouTube. The code is modified to fit my personal preferences and to deploy the model on Streamlit. The tutorial can be found here : https://www.youtube.com/watch?v=qzo5B8PuNoY&list=RDCMUCG04dVOTmbRYPY1wvshBVDQ&start_radio=1&t=12s
+This project is inspired by the tutorial from Data Professor on YouTube. The code is modified to fit my personal preferences and to deploy the model on Streamlit.
 
 
 
