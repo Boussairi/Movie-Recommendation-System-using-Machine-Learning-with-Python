@@ -3,11 +3,11 @@ This is a movie recommendation system based on collaborative filtering technique
 
 ## Table of Contents
 
-### Getting Started
-### Usage
-### Model Overview
-### Data
-### Credits
+##### Getting Started
+##### Usage
+##### Model Overview
+##### Data
+##### Credits
 
 
 
