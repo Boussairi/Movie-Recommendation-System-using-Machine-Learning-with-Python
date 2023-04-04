@@ -21,7 +21,7 @@ Run the Streamlit app using the command: streamlit run web app.py
 Access the app via your web browser at the provided link.
 
 ## Usage
-When you access the app, you will be presented with a form to select a movie. After selecting a movie, the app will recommend similar movies based on other users' ratings, genres, cast and overview.
+When you access the app, you will be presented with a form to select a movie. After selecting a movie, the app will recommend similar movies based on other users' ratings, genres, cast, director and overview.
 
 ## Model Overview
 The recommendation system is based on collaborative filtering technique. It finds similar users based on their rating history and recommends movies to the active user based on the rating history of similar users. The similarity between users is calculated using cosine similarity measure.
